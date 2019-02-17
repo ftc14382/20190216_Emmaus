@@ -1,0 +1,45 @@
+02-16 12:31:02.575   965  3188 I OurLog  : xPositions [ 0] = -12.24
+02-16 12:31:02.591   965  3188 I OurLog  : yPositions [ 0] = 27.44
+02-16 12:31:02.592   965  3188 I OurLog  : headings [ 0] = 64.59
+02-16 12:31:02.705   965  3188 I OurLog  : xPositions [ 1] = -12.23
+02-16 12:31:02.705   965  3188 I OurLog  : yPositions [ 1] = 27.44
+02-16 12:31:02.706   965  3188 I OurLog  : headings [ 1] = 64.61
+02-16 12:31:02.816   965  3188 I OurLog  : xPositions [ 2] = -12.21
+02-16 12:31:02.817   965  3188 I OurLog  : yPositions [ 2] = 27.43
+02-16 12:31:02.817   965  3188 I OurLog  : headings [ 2] = 64.64
+02-16 12:31:02.817   965  3188 I OurLog  : averaged x positions: -12.22
+02-16 12:31:02.817   965  3188 I OurLog  : averaged y positions: 27.44
+02-16 12:31:02.817   965  3188 I OurLog  : Target Visible
+02-16 12:31:02.818   965  3188 I OurLog  : X, Y, Z} = -12.2, 27.4, 2.1
+02-16 12:31:02.821   965  3188 I OurLog  : {Roll, Pitch, Heading} = -1, 4, 65
+02-16 12:31:03.026   965  3188 I OurLog  : turnTo: initial(x,y,degrees): -12.22, 27.44, 64.61
+02-16 12:31:03.027   965  3188 I OurLog  : turnTo: target(x,y,degrees): -24.50, 46.50
+02-16 12:31:03.073   965  3188 I OurLog  : getIMUField: returned angle: 64.61
+02-16 12:31:03.074   965  3188 I OurLog  : turnTo: comanded angle: 58.17
+02-16 12:31:04.116   965  3188 I OurLog  : turnTo: turned IMU angle: 54.88
+02-16 12:31:05.620   965  3188 I OurLog  : sampling: x position: 253.00
+02-16 12:31:05.662   965  3188 I OurLog  : driveTo: initial(x,y,degrees): -12.22, 27.44, 122.78
+02-16 12:31:05.663   965  3188 I OurLog  : driveTo: target(x,y,degrees): -24.50, 46.50
+02-16 12:31:05.663   965  3188 I OurLog  : DriveTo: comanded angle: 0.00
+02-16 12:31:07.095   965  3188 I OurLog  : getIMUField: returned angle: 118.42
+02-16 12:31:07.129   965  3188 I OurLog  : getIMUField: returned angle: 118.67
+02-16 12:31:07.156   965  3188 I OurLog  : DriveTo: turned IMU angle: -0.12
+02-16 12:31:07.188   965  3188 I OurLog  : driveTo: initial(x,y,degrees): -24.50, 46.50, 118.67
+02-16 12:31:07.190   965  3188 I OurLog  : driveTo: target(x,y,degrees): -27.00, 54.00
+02-16 12:31:07.190   965  3188 I OurLog  : DriveTo: comanded angle: -10.24
+02-16 12:31:08.605   965  3188 I OurLog  : getIMUField: returned angle: 111.42
+02-16 12:31:08.646   965  3188 I OurLog  : getIMUField: returned angle: 111.05
+02-16 12:31:08.666   965  3188 I OurLog  : DriveTo: turned IMU angle: -7.75
+02-16 12:31:08.742   965  3188 I OurLog  : driveTo: initial(x,y,degrees): -27.00, 54.00, 111.05
+02-16 12:31:08.742   965  3188 I OurLog  : driveTo: target(x,y,degrees): -55.00, 54.00
+02-16 12:31:08.743   965  3188 I OurLog  : DriveTo: comanded angle: 68.95
+02-16 12:31:11.153   965  3188 I OurLog  : getIMUField: returned angle: 182.24
+02-16 12:31:11.171   965  3188 I OurLog  : getIMUField: returned angle: 182.42
+02-16 12:31:11.193   965  3188 I OurLog  : DriveTo: turned IMU angle: 71.88
+02-16 12:31:12.014   965  3188 I OurLog  : Distance sensor: Moving backwards
+02-16 12:31:12.073   965  3188 I OurLog  : Distance sensor: value of sensor: 11.73
+02-16 12:31:12.082   965  3188 I OurLog  : turnTo: initial(x,y,degrees): -55.00, 54.00, 182.42
+02-16 12:31:12.083   965  3188 I OurLog  : turnTo: target(x,y,degrees): -68.00, 72.00
+02-16 12:31:12.159   965  3188 I OurLog  : getIMUField: returned angle: 183.36
+02-16 12:31:12.159   965  3188 I OurLog  : turnTo: comanded angle: -56.59
+02-16 12:31:13.189   965  3188 I OurLog  : turnTo: turned IMU angle: -54.12
