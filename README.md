@@ -1,9 +1,13 @@
 # 20190216_Emmaus
 Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
 
+[Match results detail.](http://www.ftcpenn.org/ftc-events/2018-2019-season/lehigh-valley-qualifier/match-results-details)
+
+
 ## Match 5
 
-   Bad position from Vuforia?
+   Bad position from Vuforia? Also, on landing we touched our alliance partner's robot which
+   may have contributed to it not being able to detach from the lander.
 
    Position:   Blue Left
 
@@ -15,6 +19,8 @@ Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
             the gold was. However, the robot hit a silver.
 
    Marker: Yes
+
+   Won/Lost:  Lost 257-88 
 
 
 ## Match 9
@@ -31,6 +37,7 @@ Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
    
    Marker: Yes
 
+   Won/Lost: Won 252-220 
 
 ## Match 14
 
@@ -45,6 +52,8 @@ Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
   Sampled: Yes
 
   Marker: Yes
+
+  Won/Lost: Won 79-140
 
 ## Match 21
 
@@ -62,6 +71,8 @@ Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
 
   Marker: Yes (barely)
 
+  Won/Lost:  Lost 189-234
+
 ## Match 26
 
   From the log, the DogeCV code sampled the yellow cube at the second position as "345". That is right in the middle of the image. However, the getAligned method on the detector must have returned false. Why it returned false is not clear.
@@ -76,4 +87,5 @@ Logs and video rom 20190216 Emmaus High: Green and Gold Qualiier
    
   Marker: Yes
 
+  Won/Lost: Won 161-156
 
